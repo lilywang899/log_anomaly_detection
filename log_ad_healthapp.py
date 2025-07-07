@@ -99,19 +99,6 @@ anomaly_detection_config = AnomalyDetectionConfig(
     algo_name='dbl'
 )
 
-# res = pd.DataFrame()
-# for attr in attr_list:
-#     temp_df = counter_vector[counter_vector["attribute"] == attr]
-#     if temp_df.shape[0] >= constants.MIN_TS_LENGTH:
-#         train, test = train_test_split(
-#             temp_df[[constants.LOG_TIMESTAMPS, constants.LOG_COUNTS]],
-#             shuffle=False,
-#             train_size=0.3
-#         )
-#         anomaly_detector = AnomalyDetector(anomaly_detection_config)
-#         anomaly_detector.fit(train)
-#         anom_score = anomaly_detector.predict(test)
-#         res = res.append(anom_score)
 res_list = []  # Changed: Use a list to collect results
 for item, attr in enumerate(attr_list):
     # temporary dataframe with only the wanted attribute

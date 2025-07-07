@@ -1,4 +1,27 @@
+import numpy as np
 
+# Add this at the very beginning of your script, before any logai imports
+if not hasattr(np, 'int'):
+    np.int = int
+    np.float = float
+    np.bool = bool
+
+# Monkey patch the problematic function
+original_equal = np.equal
+
+
+def patched_equal(x1, x2, out=None, **kwargs):
+    # Remove dtype argument if it's np.int or similar deprecated types
+    if 'dtype' in kwargs:
+        dtype = kwargs['dtype']
+        if dtype == np.int or (hasattr(dtype, '__name__') and dtype.__name__ == 'int'):
+            kwargs.pop('dtype')
+    return original_equal(x1, x2, out=out, **kwargs)
+
+
+np.equal = patched_equal
+# Now import logai safely
+# ... rest of your imports and code
 import os
 from logai.applications.openset.anomaly_detection.openset_anomaly_detection_workflow import OpenSetADWorkflowConfig, validate_config_dict
 from logai.utils.file_utils import read_file
@@ -79,3 +102,14 @@ anomaly_detector.fit(train_features, dev_features)
 
 predict_results = anomaly_detector.predict(test_features)
 print (predict_results)
+
+# Check the distribution of your labels
+print("Ground truth distribution:")
+print(predict_results['true'].value_counts())
+
+print("\nPrediction distribution:")
+print(predict_results['pred'].value_counts())
+
+# Look at some normal vs anomaly examples
+print("\nFirst 20 predictions:", predict_results['pred'][:20].tolist())
+print("First 20 ground truth:", predict_results['true'][:20].tolist())
