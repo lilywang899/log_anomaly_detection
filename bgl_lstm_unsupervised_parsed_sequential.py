@@ -36,7 +36,7 @@ from logai.information_extraction.log_vectorizer import LogVectorizer
 from logai.utils import constants
 
 
-config_path = "configs/bgl_lstm_unsupervised_parsed_sequential_config.yaml"
+config_path = "configs/bgl_lstm_unsupervised_parsed_semantic_config.yaml"
 config_parsed = read_file(config_path)
 config_dict = config_parsed["workflow_config"]
 validate_config_dict(config_dict)
