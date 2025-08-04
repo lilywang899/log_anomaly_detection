@@ -130,8 +130,10 @@ res = anomaly_detector.predict(test)
 # obtain the anomalous datapoints
 anomalies = res[res==1]
 print(f"anomalies index: {anomalies.index}")
+anomalous_lines = loglines.iloc[anomalies.index].to_frame().join(attributes.iloc[anomalies.index])
 print(loglines.iloc[anomalies.index].head(5))
 print(attributes.iloc[anomalies.index].head(5))
+anomalous_lines.to_csv('./semantic_processing_output/anomaly_detection_results.csv')
 
 print("Step 7: Log Clustering with K-Means clustering algorithm")
 from logai.algorithms.clustering_algo.kmeans import KMeansParams
@@ -150,6 +152,7 @@ log_clustering = Clustering(clustering_config)
 log_clustering.fit(feature_vector)
 
 cluster_id = log_clustering.predict(feature_vector).astype(str).rename('cluster_id')
-
+cluster_results = logrecord.to_dataframe().join(cluster_id)
+cluster_results.to_csv('./semantic_processing_output/kmeans_cluster_results.csv')
 # Check clustering results.
 print(logrecord.to_dataframe().join(cluster_id).head(5))

@@ -1,0 +1,601 @@
+,logline,Action,ID
+1254,onExtend:1514041326000 0 0 5,Step_LSC,30002312
+215,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1541,initUserPrivacy the userPrivacy is true,HiH_,30002312
+1980,sendSyncFailedBroadcast,HiH_HiBroadcastUtil,30002312
+831,onStandStepChanged 3748,Step_LSC,30002312
+1702,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+1527, getTodayTotalDetailSteps = 1514042880000##7214##549659##8661##16256##31588757,Step_SPUtils,30002312
+922,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1721,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+534,setTodayTotalDetailSteps=1514038560000##7105##548582##8661##16256##27319968,Step_SPUtils,30002312
+630,onStandStepChanged 3702,Step_LSC,30002312
+1816, getTodayTotalDetailSteps = 1514044740000##0##549659##8661##16256##33449757,Step_SPUtils,30002312
+300,REPORT : 7052 5035 151053 240,Step_StandReportReceiver,30002312
+523,REPORT : 7103 5071 152146 240,Step_StandReportReceiver,30002312
+1333,onStandStepChanged 3761,Step_LSC,30002312
+846,onExtend:1514038803000 2 0 4,Step_LSC,30002312
+1871,onStandStepChanged 3786,Step_LSC,30002312
+540, getTodayTotalDetailSteps = 1514038560000##7105##548582##8661##16256##27319968,Step_SPUtils,30002312
+1483,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1799,setGoalNotifiShownRecord 1514044800237 false,Step_SPUtils,30002312
+1793, getTodayTotalDetailSteps = 1514044560000##7214##549659##8661##16256##33306763,Step_SPUtils,30002312
+1669, getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33075759,Step_SPUtils,30002312
+1658,setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33066759,Step_SPUtils,30002312
+527,setTodayTotalDetailSteps=1514038560000##7104##548581##8661##16256##27319473,Step_SPUtils,30002312
+1833,onExtend:1514045177000 0 0 0,Step_LSC,30002312
+1757,setTodayTotalDetailSteps=1514044500000##7214##549659##8661##16256##33239758,Step_SPUtils,30002312
+311, getTodayTotalDetailSteps = 1514038440000##7053##548365##8661##16256##27202475,Step_SPUtils,30002312
+600,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1874,setTodayTotalDetailSteps=1514045280000##0##549659##8661##16256##33990761,Step_SPUtils,30002312
+1470,flush sensor data,Step_StandStepCounter,30002312
+412,onStandStepChanged 3649,Step_LSC,30002312
+360,setTodayTotalDetailSteps=1514038560000##7064##548557##8661##16256##27286970,Step_SPUtils,30002312
+1047,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+736,checkInsertStatus stepStatSum or calorieStatSum is enough,HiH_HiSyncControl,30002312
+144,calculateCaloriesWithCache totalCalories=127182,Step_ExtSDM,30002312
+1576,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+323,onStandStepChanged 3626,Step_LSC,30002312
+896, getTodayTotalDetailSteps = 1514038740000##7189##549557##8661##16256##27452491,Step_SPUtils,30002312
+422,setTodayTotalDetailSteps=1514038560000##7079##548566##8661##16256##27310473,Step_SPUtils,30002312
+487,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1217,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+919,setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27706526,Step_SPUtils,30002312
+515,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+853,onExtend:1514038803000 2 0 4,Step_LSC,30002312
+1152,onExtend:1514040766000 0 0 0,Step_LSC,30002312
+1331,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+370,REPORT : 7066 5045 151353 240,Step_StandReportReceiver,30002312
+1365,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1348, getTodayTotalDetailSteps = 1514041980000##7189##549659##8661##16256##30709727,Step_SPUtils,30002312
+113,onExtend:1514038538000 1 0 4,Step_LSC,30002312
+925,onExtend:1514039062000 0 0 0,Step_LSC,30002312
+595,onStandStepChanged 3689,Step_LSC,30002312
+707,getBinderPackageName packageName = com.huawei.health,HiH_HiAppUtil,30002312
+727,startListenerChange subscribeList = [1],HiH_ListenerManager,30002312
+524,onStandStepChanged 3676,Step_LSC,30002312
+1644,onExtend:1514044411000 0 0 0,Step_LSC,30002312
+605,setTodayTotalDetailSteps=1514038680000##7122##548870##8661##16256##27392978,Step_SPUtils,30002312
+1401,REPORT : 7205 5144 154331 240,Step_StandReportReceiver,30002312
+1155,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+1977,"initUserPrivacy the userPrivacy switch is open, start push user data!",HiH_HiSyncControl,30002312
+21, getTodayTotalDetailSteps = 1514038440000##7008##548365##8661##12456##27174269,Step_SPUtils,30002312
+51,calculateCaloriesWithCache totalCalories=126925,Step_ExtSDM,30002312
+1477,onStandStepChanged 3786,Step_LSC,30002312
+1292,setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30315546,Step_SPUtils,30002312
+1612,onStandStepChanged 3786,Step_LSC,30002312
+371,onStandStepChanged 3640,Step_LSC,30002312
+1700, getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33119761,Step_SPUtils,30002312
+556,calculateCaloriesWithCache totalCalories=128960,Step_ExtSDM,30002312
+984,onStandStepChanged 3761,Step_LSC,30002312
+94,setTodayTotalDetailSteps=1514038440000##7019##548365##8661##13406##27180468,Step_SPUtils,30002312
+1791, getDiffTotalSteps= 1514044800231##0,Step_SPUtils,30002312
+667, getTodayTotalDetailSteps = 1514038680000##7140##548910##8661##16256##27396969,Step_SPUtils,30002312
+910,onExtend:1514038819000 0 0 5,Step_LSC,30002312
+990, getTodayTotalDetailSteps = 1514039400000##7189##549659##8661##16256##28136544,Step_SPUtils,30002312
+1628,setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33039758,Step_SPUtils,30002312
+1383, getTodayTotalDetailSteps = 1514041980000##7198##549659##8661##16256##30729233,Step_SPUtils,30002312
+805,setTodayTotalDetailSteps=1514038680000##7167##548945##8661##16256##27443986,Step_SPUtils,30002312
+1367,onStandStepChanged 3768,Step_LSC,30002312
+885,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+471,setTodayTotalDetailSteps=1514038560000##7092##548573##8661##16256##27313974,Step_SPUtils,30002312
+530,REPORT : 7104 5072 152167 240,Step_StandReportReceiver,30002312
+385,onStandStepChanged 3643,Step_LSC,30002312
+1327, getTodayTotalDetailSteps = 1514041620000##7189##549659##8661##16256##30343722,Step_SPUtils,30002312
+1405,setTodayTotalDetailSteps=1514041980000##7208##549659##8661##16256##30731232,Step_SPUtils,30002312
+77,setTodayTotalDetailSteps=1514038440000##7017##548365##8661##13216##27179417,Step_SPUtils,30002312
+1686,onStandStepChanged 3786,Step_LSC,30002312
+1351,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1252,onExtend:1514041206000 0 0 5,Step_LSC,30002312
+458,calculateCaloriesWithCache totalCalories=128510,Step_ExtSDM,30002312
+1361,onExtend:1514042083000 1 0 4,Step_LSC,30002312
+160,REPORT : 7028 5017 150539 240,Step_StandReportReceiver,30002312
+203,onStandStepChanged 3607,Step_LSC,30002312
+901,onExtend:1514038816000 0 0 5,Step_LSC,30002312
+1569,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1438,onStandStepChanged 3786,Step_LSC,30002312
+1701,setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33129767,Step_SPUtils,30002312
+1668,onExtend:1514044437000 0 0 0,Step_LSC,30002312
+103,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1281,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1291, getTodayTotalDetailSteps = 1514041560000##7189##549659##8661##16256##30314585,Step_SPUtils,30002312
+1673,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+92,onExtend:1514038536000 1 0 4,Step_LSC,30002312
+1738, getTodayTotalDetailSteps = 1514044440000##7214##549659##8661##16256##33169760,Step_SPUtils,30002312
+333,calculateCaloriesWithCache totalCalories=127824,Step_ExtSDM,30002312
+465,calculateCaloriesWithCache totalCalories=128553,Step_ExtSDM,30002312
+1334,onExtend:1514042064000 0 0 5,Step_LSC,30002312
+505, getTodayTotalDetailSteps = 1514038560000##7099##548577##8661##16256##27315983,Step_SPUtils,30002312
+817,onStandStepChanged 3745,Step_LSC,30002312
+1919,calculateCaloriesWithCache totalCalories=0,Step_ExtSDM,30002312
+1564,onStandStepChanged 3786,Step_LSC,30002312
+887,onStandStepChanged 3761,Step_LSC,30002312
+742,getBinderPackageName packageName = com.huawei.health,HiH_HiAppUtil,30002312
+283,setTodayTotalDetailSteps=1514038440000##7048##548365##8661##15971##27198970,Step_SPUtils,30002312
+5,setTodayTotalDetailSteps=1514038440000##7007##548365##8661##12361##27173954,Step_SPUtils,30002312
+1902,onStandStepChanged 3786,Step_LSC,30002312
+734,getBinderPackageName packageName = com.huawei.health,HiH_HiAppUtil,30002312
+680,onExtend:1514038756000 6 0 4,Step_LSC,30002312
+136,setTodayTotalDetailSteps=1514038440000##7025##548365##8661##13976##27183974,Step_SPUtils,30002312
+148,onExtend:1514038541000 1 0 4,Step_LSC,30002312
+1455,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1587,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+702,"upLoadOneMinuteDataToEngine time=25233975,0,93,0,20002",Step_FlushableStepDataCache,30002312
+1971,"startSync hiSyncOption = HiSyncOption{syncAction=1, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1",HiH_HiSyncControl,30002312
+593,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+280,onStandStepChanged 3620,Step_LSC,30002312
+1789, getTodayTotalDetailSteps = 1514044560000##7214##549659##8661##16256##33306763,Step_SPUtils,30002312
+681,onStandStepChanged 3732,Step_LSC,30002312
+1605,onExtend:1514044249000 0 0 0,Step_LSC,30002312
+1910, getTodayTotalDetailSteps = 1514045340000##0##549659##8661##16256##34086757,Step_SPUtils,30002312
+1276,onStandStepChanged 3761,Step_LSC,30002312
+604, getTodayTotalDetailSteps = 1514038680000##7117##548865##8661##16256##27392475,Step_SPUtils,30002312
+1192,onExtend:1514040793000 0 0 5,Step_LSC,30002312
+696,calculateCaloriesWithCache totalCalories=130052,Step_ExtSDM,30002312
+192,setTodayTotalDetailSteps=1514038440000##7033##548365##8661##14736##27189469,Step_SPUtils,30002312
+520,setTodayTotalDetailSteps=1514038560000##7103##548580##8661##16256##27318472,Step_SPUtils,30002312
+233, getTodayTotalDetailSteps = 1514038440000##7038##548365##8661##15211##27192478,Step_SPUtils,30002312
+1116, getTodayTotalDetailSteps = 1514040600000##7189##549659##8661##16256##29341612,Step_SPUtils,30002312
+900,onStandStepChanged 3761,Step_LSC,30002312
+1386,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1637,onStandStepChanged 3786,Step_LSC,30002312
+1860,setTodayTotalDetailSteps=1514045160000##0##549659##8661##16256##33885759,Step_SPUtils,30002312
+1888,calculateAltitudeWithCache totalAltitude=0,Step_ExtSDM,30002312
+298,calculateCaloriesWithCache totalCalories=127739,Step_ExtSDM,30002312
+403,calculateCaloriesWithCache totalCalories=128210,Step_ExtSDM,30002312
+1755,onExtend:1514044595000 0 0 0,Step_LSC,30002312
+1672,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+838,onStandStepChanged 3751,Step_LSC,30002312
+284,calculateCaloriesWithCache totalCalories=127653,Step_ExtSDM,30002312
+355,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+205, getTodayTotalDetailSteps = 1514038440000##7034##548365##8661##14831##27189969,Step_SPUtils,30002312
+61,onStandStepChanged 3588,Step_LSC,30002312
+1807,calculateAltitudeWithCache totalAltitude=0,Step_ExtSDM,30002312
+361,calculateCaloriesWithCache totalCalories=127996,Step_ExtSDM,30002312
+316,onStandStepChanged 3626,Step_LSC,30002312
+146,REPORT : 7026 5016 150496 240,Step_StandReportReceiver,30002312
+1837,calculateAltitudeWithCache totalAltitude=0,Step_ExtSDM,30002312
+1614, getTodayTotalDetailSteps = 1514044140000##7214##549659##8661##16256##32893026,Step_SPUtils,30002312
+219, getTodayTotalDetailSteps = 1514038440000##7036##548365##8661##15021##27190970,Step_SPUtils,30002312
+733,getBinderPackageName packageName = com.huawei.health,HiH_HiAppUtil,30002312
+1290,REPORT : 7189 5132 153988 240,Step_StandReportReceiver,30002312
+839,onExtend:1514038802000 3 0 4,Step_LSC,30002312
+26,onStandStepChanged 3583,Step_LSC,30002312
+221,calculateCaloriesWithCache totalCalories=127418,Step_ExtSDM,30002312
+1011,initUserPrivacy the userPrivacy is true,HiH_,30002312
+383,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+430,calculateCaloriesWithCache totalCalories=128360,Step_ExtSDM,30002312
+198, getTodayTotalDetailSteps = 1514038440000##7033##548365##8661##14736##27189469,Step_SPUtils,30002312
+1135,onExtend:1514040766000 0 0 5,Step_LSC,30002312
+208,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1156,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1395,onStandStepChanged 3777,Step_LSC,30002312
+1221,onReceive action: android.intent.action.SCREEN_ON,Step_StandReportReceiver,30002312
+317,onExtend:1514038561000 0 0 0,Step_LSC,30002312
+1399,calculateCaloriesWithCache totalCalories=131015,Step_ExtSDM,30002312
+1536,stepSyncOrNot appSynTimes is 0,HiH_HiSyncControl,30002312
+156, getTodayTotalDetailSteps = 1514038440000##7027##548365##8661##14166##27185467,Step_SPUtils,30002312
+1489,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+362,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+22,setTodayTotalDetailSteps=1514038440000##7009##548365##8661##12551##27174951,Step_SPUtils,30002312
+121, getTodayTotalDetailSteps = 1514038440000##7022##548365##8661##13691##27182468,Step_SPUtils,30002312
+97,REPORT : 7019 5011 150346 240,Step_StandReportReceiver,30002312
+1978,initUserPrivacy the userPrivacy is true,HiH_,30002312
+419,onStandStepChanged 3651,Step_LSC,30002312
+1078,onStandStepChanged 3761,Step_LSC,30002312
+1731, getTodayTotalDetailSteps = 1514044440000##7214##549659##8661##16256##33168762,Step_SPUtils,30002312
+337,onExtend:1514038641000 2 0 4,Step_LSC,30002312
+343,onStandStepChanged 3632,Step_LSC,30002312
+382,calculateCaloriesWithCache totalCalories=128124,Step_ExtSDM,30002312
+381,setTodayTotalDetailSteps=1514038560000##7070##548560##8661##16256##27288471,Step_SPUtils,30002312
+512, getTodayTotalDetailSteps = 1514038560000##7101##548578##8661##16256##27316470,Step_SPUtils,30002312
+118,REPORT : 7022 5013 150411 240,Step_StandReportReceiver,30002312
+1282,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501,Step_LSC,30002312
+721,"saveStatData() type =40005,time = 1513958400000,statClient = 2,who is 1",HiH_HiHealthDataInsertStore,30002312
+1127,onExtend:1514040708000 0 0 5,Step_LSC,30002312
+585,calculateCaloriesWithCache totalCalories=129067,Step_ExtSDM,30002312
+1099,setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29307585,Step_SPUtils,30002312
+1915,onStandStepChanged 3786,Step_LSC,30002312
+565,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+974,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+1265,setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30270445,Step_SPUtils,30002312
+661,setTodayTotalDetailSteps=1514038680000##7140##548910##8661##16256##27396969,Step_SPUtils,30002312
+632, getTodayTotalDetailSteps = 1514038680000##7128##548885##8661##16256##27394469,Step_SPUtils,30002312
+970,onStandStepChanged 3761,Step_LSC,30002312
+111,REPORT : 7021 5012 150389 240,Step_StandReportReceiver,30002312
+1843,calculateCaloriesWithCache totalCalories=0,Step_ExtSDM,30002312
+1651, getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33055760,Step_SPUtils,30002312
+490,onExtend:1514038671000 2 0 4,Step_LSC,30002312
+320,calculateCaloriesWithCache totalCalories=127782,Step_ExtSDM,30002312
+809,onStandStepChanged 3742,Step_LSC,30002312
+1590, getTodayTotalDetailSteps = 1514043660000##7214##549659##8661##16256##32403526,Step_SPUtils,30002312
+902, getTodayTotalDetailSteps = 1514038740000##7189##549608##8661##16256##27457484,Step_SPUtils,30002312
+1119,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+587,REPORT : 7114 5079 152381 240,Step_StandReportReceiver,30002312
+816,REPORT : 7170 5119 153581 240,Step_StandReportReceiver,30002312
+997,onExtend:1514039520000 0 0 0,Step_LSC,30002312
+569, getTodayTotalDetailSteps = 1514038620000##7111##548640##8661##16256##27324478,Step_SPUtils,30002312
+500,calculateCaloriesWithCache totalCalories=128745,Step_ExtSDM,30002312
+1529,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+63,onReceive action: android.intent.action.SCREEN_OFF,Step_StandReportReceiver,30002312
+143,setTodayTotalDetailSteps=1514038440000##7026##548365##8661##14071##27184972,Step_SPUtils,30002312
+43,setTodayTotalDetailSteps=1514038440000##7013##548365##8661##12836##27176966,Step_SPUtils,30002312
+242,calculateCaloriesWithCache totalCalories=127482,Step_ExtSDM,30002312
+1656,onExtend:1514044422000 0 0 0,Step_LSC,30002312
+216,REPORT : 7036 5023 150711 240,Step_StandReportReceiver,30002312
+1785,tryToRecordAsBasicStepData bWrite true,Step_StandStepDataManager,30002312
+169,onExtend:1514038543000 1 0 4,Step_LSC,30002312
+149, getTodayTotalDetailSteps = 1514038440000##7026##548365##8661##14071##27184972,Step_SPUtils,30002312
+1965,setTodayTotalDetailSteps=1514046420000##0##549659##8661##16256##35149773,Step_SPUtils,30002312
+1167,onReceive action: android.intent.action.SCREEN_ON,Step_StandReportReceiver,30002312
+1251,onExtend:1514041146000 0 0 5,Step_LSC,30002312
+949,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+291,calculateCaloriesWithCache totalCalories=127696,Step_ExtSDM,30002312
+658,onStandStepChanged 3712,Step_LSC,30002312
+581,onStandStepChanged 3686,Step_LSC,30002312
+743,"startSync hiSyncOption = HiSyncOption{syncAction=2, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1",HiH_HiSyncControl,30002312
+905,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1832,onStandStepChanged 3786,Step_LSC,30002312
+1540,"initUserPrivacy the userPrivacy switch is open, start push user data!",HiH_HiSyncControl,30002312
+1181,setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29425847,Step_SPUtils,30002312
+66, getTodayTotalDetailSteps = 1514038440000##7015##548365##8661##13026##27177962,Step_SPUtils,30002312
+1927,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1556,onExtend:1514043436000 0 0 0,Step_LSC,30002312
+764,"new date =20171223, type=40024,79200.0,old=79200.0",HiH_DataStatManager,30002312
+1173,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+2,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,Step_LSC,30002312
+1148,setTodayTotalDetailSteps=1514040660000##7189##549659##8661##16256##29410120,Step_SPUtils,30002312
+1991,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1680,onStandStepChanged 3786,Step_LSC,30002312
+1060,onStandStepChanged 3761,Step_LSC,30002312
+145,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+64,onStandStepChanged 3589,Step_LSC,30002312
+1347,onExtend:1514042082000 2 0 0,Step_LSC,30002312
+1610,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1269,onStandStepChanged 3761,Step_LSC,30002312
+1391,setTodayTotalDetailSteps=1514041980000##7202##549659##8661##16256##30730227,Step_SPUtils,30002312
+204,onExtend:1514038546000 1 0 4,Step_LSC,30002312
+1336, getTodayTotalDetailSteps = 1514041980000##7189##549659##8661##16256##30708710,Step_SPUtils,30002312
+1976,initDataPrivacy the dataPrivacy is true,HiH_,30002312
+1881,calculateCaloriesWithCache totalCalories=0,Step_ExtSDM,30002312
+1493, getTodayTotalDetailSteps = 1514042280000##7214##549659##8661##16256##31004759,Step_SPUtils,30002312
+1059,setTodayTotalDetailSteps=1514039880000##7189##549659##8661##16256##28609620,Step_SPUtils,30002312
+1737,onExtend:1514044572000 0 0 5,Step_LSC,30002312
+37,calculateCaloriesWithCache totalCalories=126882,Step_ExtSDM,30002312
+222,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+934,setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27736503,Step_SPUtils,30002312
+544,REPORT : 7106 5073 152210 240,Step_StandReportReceiver,30002312
+312,setTodayTotalDetailSteps=1514038500000##7054##548458##8661##16256##27204469,Step_SPUtils,30002312
+1223,flush sensor data,Step_StandStepCounter,30002312
+133,onStandStepChanged 3597,Step_LSC,30002312
+1381,onStandStepChanged 3772,Step_LSC,30002312
+1869,calculateCaloriesWithCache totalCalories=0,Step_ExtSDM,30002312
+1924,setTodayTotalDetailSteps=1514045400000##0##549659##8661##16256##34161762,Step_SPUtils,30002312
+481,REPORT : 7094 5065 151953 240,Step_StandReportReceiver,30002312
+261, getTodayTotalDetailSteps = 1514038440000##7042##548365##8661##15591##27195470,Step_SPUtils,30002312
+98,onStandStepChanged 3592,Step_LSC,30002312
+1598,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+1230,onStandStepChanged 3761,Step_LSC,30002312
+426,onStandStepChanged 3653,Step_LSC,30002312
+1722,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1601,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+351,onExtend:1514038642000 2 0 4,Step_LSC,30002312
+909,onStandStepChanged 3761,Step_LSC,30002312
+1790, getTodayBasicStandardSteps= 1514044800223##3786##0,Step_SPUtils,30002312
+1574,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+586,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1968,onReceive action: android.intent.action.SCREEN_OFF,Step_StandReportReceiver,30002312
+1602,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+262,setTodayTotalDetailSteps=1514038440000##7044##548365##8661##15686##27196480,Step_SPUtils,30002312
+776, getTodayTotalDetailSteps = 1514038680000##7160##548930##8661##16256##27442416,Step_SPUtils,30002312
+347,calculateCaloriesWithCache totalCalories=127910,Step_ExtSDM,30002312
+874,onExtend:1514038806000 1 0 4,Step_LSC,30002312
+1287,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1659,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+635,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1500,onStandStepChanged 3786,Step_LSC,30002312
+124,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1325,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,Step_LSC,30002312
+1302,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+774,setWriteDBLastDataMinute success,Step_SPUtils,30002312
+693,onExtend:1514038798000 0 0 4,Step_LSC,30002312
+892,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+808,REPORT : 7167 5117 153517 240,Step_StandReportReceiver,30002312
+1742,onStandStepChanged 3786,Step_LSC,30002312
+1038,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+946,setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27743510,Step_SPUtils,30002312
+294,onStandStepChanged 3624,Step_LSC,30002312
+542,calculateCaloriesWithCache totalCalories=128895,Step_ExtSDM,30002312
+1443,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+657,REPORT : 7139 5097 152917 240,Step_StandReportReceiver,30002312
+948,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1678,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+1577,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1580, getTodayTotalDetailSteps = 1514043540000##7214##549659##8661##16256##32258759,Step_SPUtils,30002312
+502,REPORT : 7099 5068 152060 240,Step_StandReportReceiver,30002312
+1592,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+470, getTodayTotalDetailSteps = 1514038560000##7090##548572##8661##16256##27313468,Step_SPUtils,30002312
+878,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+247, getTodayTotalDetailSteps = 1514038440000##7040##548365##8661##15401##27193971,Step_SPUtils,30002312
+186,calculateCaloriesWithCache totalCalories=127311,Step_ExtSDM,30002312
+1459,"timeStamp back,extendReportTimeStamp=1514042265000",Step_LSC,30002312
+1891,onExtend:1514045409000 0 0 5,Step_LSC,30002312
+295,onExtend:1514038556000 2 0 4,Step_LSC,30002312
+1190,onReceive action: android.intent.action.SCREEN_OFF,Step_StandReportReceiver,30002312
+1422,REPORT : 7212 5149 154481 240,Step_StandReportReceiver,30002312
+1061,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+1464,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+670,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+780,checkInsertStatus stepStatSum or calorieStatSum is enough,HiH_HiSyncControl,30002312
+1012,ifCanSync not! no cloud version,HiH_HiSyncControl,30002312
+1279,setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30271693,Step_SPUtils,30002312
+1037,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+1615,setTodayTotalDetailSteps=1514044260000##7214##549659##8661##16256##33021763,Step_SPUtils,30002312
+1717,onExtend:1514044496000 0 0 0,Step_LSC,30002312
+1058, getTodayTotalDetailSteps = 1514039760000##7189##549659##8661##16256##28479559,Step_SPUtils,30002312
+714,"insertHiHealthData() size = 4,app = 1,One Data Type = 40002,packageName = com.huawei.health,writeStatType = 0",HiH_HiHealthBinder,30002312
+992,onStandStepChanged 3761,Step_LSC,30002312
+272,REPORT : 7045 5030 150903 240,Step_StandReportReceiver,30002312
+167,REPORT : 7029 5018 150561 240,Step_StandReportReceiver,30002312
+944,onExtend:1514039098000 0 0 5,Step_LSC,30002312
+1583,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1983,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1191,onStandStepChanged 3761,Step_LSC,30002312
+1397, getTodayTotalDetailSteps = 1514041980000##7202##549659##8661##16256##30730227,Step_SPUtils,30002312
+815,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+268, getTodayTotalDetailSteps = 1514038440000##7044##548365##8661##15686##27196480,Step_SPUtils,30002312
+48,onExtend:1514038533000 1 0 4,Step_LSC,30002312
+904,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+623,onStandStepChanged 3700,Step_LSC,30002312
+522,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+952,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1521, getTodayTotalDetailSteps = 1514042520000##7214##549659##8661##16256##31243766,Step_SPUtils,30002312
+102,calculateCaloriesWithCache totalCalories=127054,Step_ExtSDM,30002312
+139,REPORT : 7025 5015 150475 240,Step_StandReportReceiver,30002312
+1952,calculateAltitudeWithCache totalAltitude=0,Step_ExtSDM,30002312
+1929,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1066,"timeStamp back,extendReportTimeStamp=1514039977000",Step_LSC,30002312
+1140,setTodayTotalDetailSteps=1514040660000##7189##549659##8661##16256##29409806,Step_SPUtils,30002312
+890,setTodayTotalDetailSteps=1514038740000##7189##549557##8661##16256##27452491,Step_SPUtils,30002312
+177, getTodayTotalDetailSteps = 1514038440000##7030##548365##8661##14451##27187468,Step_SPUtils,30002312
+1648,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+414, getTodayTotalDetailSteps = 1514038560000##7075##548564##8661##16256##27309470,Step_SPUtils,30002312
+932,onExtend:1514039091000 0 0 5,Step_LSC,30002312
+710,onExtend:1514038799000 3 0 4,Step_LSC,30002312
+152,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1141,onStandStepChanged 3761,Step_LSC,30002312
+1907,calculateAltitudeWithCache totalAltitude=0,Step_ExtSDM,30002312
+82,onStandStepChanged 3589,Step_LSC,30002312
+1126,onStandStepChanged 3761,Step_LSC,30002312
+218,onExtend:1514038548000 1 0 4,Step_LSC,30002312
+547, getTodayTotalDetailSteps = 1514038560000##7106##548583##8661##16256##27320969,Step_SPUtils,30002312
+59,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+649,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1780,reStartStepCounter,Step_StandStepCounter,30002312
+1879, getTodayTotalDetailSteps = 1514045280000##0##549659##8661##16256##33990761,Step_SPUtils,30002312
+953,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1208,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+762,"new date =20171223, type=40013,410.0,old=410.0",HiH_DataStatManager,30002312
+1565,onExtend:1514043610000 0 0 5,Step_LSC,30002312
+1716,onStandStepChanged 3786,Step_LSC,30002312
+1805,setTodayTotalDetailSteps=1514044740000##0##549659##8661##16256##33444943,Step_SPUtils,30002312
+1429,REPORT : 7214 5150 154523 240,Step_StandReportReceiver,30002312
+1911,setTodayTotalDetailSteps=1514045340000##0##549659##8661##16256##34087759,Step_SPUtils,30002312
+363,REPORT : 7064 5043 151310 240,Step_StandReportReceiver,30002312
+1468,onReceive action: android.intent.action.SCREEN_ON,Step_StandReportReceiver,30002312
+1176,onStandStepChanged 3761,Step_LSC,30002312
+937,onStandStepChanged 3761,Step_LSC,30002312
+660, getTodayTotalDetailSteps = 1514038680000##7139##548905##8661##16256##27396473,Step_SPUtils,30002312
+10,onExtend:1514038530000 0 0 4,Step_LSC,30002312
+671,REPORT : 7154 5107 153238 240,Step_StandReportReceiver,30002312
+1188,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+279,REPORT : 7047 5031 150946 240,Step_StandReportReceiver,30002312
+1299, getTodayTotalDetailSteps = 1514041560000##7189##549659##8661##16256##30315546,Step_SPUtils,30002312
+112,onStandStepChanged 3594,Step_LSC,30002312
+1236,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+1243,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1760,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1409,onStandStepChanged 3783,Step_LSC,30002312
+748,"initDataPrivacy the dataPrivacy switch is open, start push health data!",HiH_HiSyncControl,30002312
+474,REPORT : 7092 5063 151910 240,Step_StandReportReceiver,30002312
+1466,onExtend:1514042262000 0 0 0,Step_LSC,30002312
+582,onExtend:1514038686000 1 0 4,Step_LSC,30002312
+1073,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+265,REPORT : 7044 5029 150882 240,Step_StandReportReceiver,30002312
+1634,setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33041763,Step_SPUtils,30002312
+1758,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+199,setTodayTotalDetailSteps=1514038440000##7034##548365##8661##14831##27189969,Step_SPUtils,30002312
+68,calculateCaloriesWithCache totalCalories=126989,Step_ExtSDM,30002312
+393,onExtend:1514038645000 3 0 4,Step_LSC,30002312
+1682, getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33112771,Step_SPUtils,30002312
+1531,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1966,calculateCaloriesWithCache totalCalories=0,Step_ExtSDM,30002312
+928,setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27706835,Step_SPUtils,30002312
+1899,setTodayTotalDetailSteps=1514045340000##0##549659##8661##16256##34054759,Step_SPUtils,30002312
+388,setTodayTotalDetailSteps=1514038560000##7071##548561##8661##16256##27288973,Step_SPUtils,30002312
+1344,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+1526,onExtend:1514042945000 0 0 0,Step_LSC,30002312
+646, getTodayTotalDetailSteps = 1514038680000##7132##548895##8661##16256##27395468,Step_SPUtils,30002312
+1687,onExtend:1514044474000 0 0 5,Step_LSC,30002312
+614,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1080, getTodayTotalDetailSteps = 1514039880000##7189##549659##8661##16256##28609933,Step_SPUtils,30002312
+365,onExtend:1514038643000 2 0 4,Step_LSC,30002312
+1246,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1182,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+588,onStandStepChanged 3686,Step_LSC,30002312
+1795,calculateCaloriesWithCache totalCalories=0,Step_ExtSDM,30002312
+163, getTodayTotalDetailSteps = 1514038440000##7028##548365##8661##14261##27185977,Step_SPUtils,30002312
+1258,onExtend:1514041566000 0 0 5,Step_LSC,30002312
+274,onExtend:1514038554000 2 0 4,Step_LSC,30002312
+898,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+1618,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+125,REPORT : 7023 5014 150432 240,Step_StandReportReceiver,30002312
+1306, getTodayTotalDetailSteps = 1514041620000##7189##549659##8661##16256##30333554,Step_SPUtils,30002312
+1384,setTodayTotalDetailSteps=1514041980000##7200##549659##8661##16256##30729733,Step_SPUtils,30002312
+1054,onExtend:1514039977000 0 0 0,Step_LSC,30002312
+495,REPORT : 7097 5067 152017 240,Step_StandReportReceiver,30002312
+1897,onExtend:1514045410000 0 0 0,Step_LSC,30002312
+1960,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1566, getTodayTotalDetailSteps = 1514043360000##7214##549659##8661##16256##32080760,Step_SPUtils,30002312
+1008,"initDataPrivacy the dataPrivacy switch is open, start push health data!",HiH_HiSyncControl,30002312
+1851,onStandStepChanged 3786,Step_LSC,30002312
+1930,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1956,setTodayTotalDetailSteps=1514046240000##0##549659##8661##16256##34961757,Step_SPUtils,30002312
+1425, getTodayTotalDetailSteps = 1514041980000##7212##549659##8661##16256##30732729,Step_SPUtils,30002312
+1808,onStandStepChanged 3786,Step_LSC,30002312
+1454,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+708,getBinderPackageName packageName = com.huawei.health,HiH_HiAppUtil,30002312
+461,onStandStepChanged 3662,Step_LSC,30002312
+1186, getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29425847,Step_SPUtils,30002312
+1286,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+1630,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1940,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1507,onExtend:1514042599000 0 0 0,Step_LSC,30002312
+763,"new date =20171223, type=40034,292.73999999999995,old=292.73999999999995",HiH_DataStatManager,30002312
+446,REPORT : 7084 5057 151739 240,Step_StandReportReceiver,30002312
+747,"saveHealthDetailData() deviceID = 2,clientID=1,id=1",HiH_HiHealthDataInsertStore,30002312
+955,onExtend:1514039112000 0 0 5,Step_LSC,30002312
+1697,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1068, getTodayTotalDetailSteps = 1514039880000##7189##549659##8661##16256##28609620,Step_SPUtils,30002312
+1490,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1284, getTodayTotalDetailSteps = 1514041560000##7189##549659##8661##16256##30271693,Step_SPUtils,30002312
+1608,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+750,"initUserPrivacy the userPrivacy switch is open, start push user data!",HiH_HiSyncControl,30002312
+1002,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1720,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+951,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+7,calculateCaloriesWithCache totalCalories=126775,Step_ExtSDM,30002312
+1453,onStandStepChanged 3786,Step_LSC,30002312
+1214,setTodayTotalDetailSteps=1514040780000##7189##549659##8661##16256##29539649,Step_SPUtils,30002312
+1725, getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33140770,Step_SPUtils,30002312
+1885, getTodayTotalDetailSteps = 1514045280000##0##549659##8661##16256##34018758,Step_SPUtils,30002312
+782,"startInsertSportSync start auto sync,app is 1",HiH_HiSyncControl,30002312
+1756, getTodayTotalDetailSteps = 1514044500000##7214##549659##8661##16256##33232763,Step_SPUtils,30002312
+1812,calculateCaloriesWithCache totalCalories=0,Step_ExtSDM,30002312
+378,onStandStepChanged 3642,Step_LSC,30002312
+1797,REPORT : 0 0 0 0,Step_StandReportReceiver,30002312
+391,REPORT : 7071 5048 151460 240,Step_StandReportReceiver,30002312
+56, getTodayTotalDetailSteps = 1514038440000##7014##548365##8661##12931##27177463,Step_SPUtils,30002312
+1257,onExtend:1514041506000 0 0 5,Step_LSC,30002312
+1435,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+980,setTodayTotalDetailSteps=1514039400000##7189##549659##8661##16256##28136544,Step_SPUtils,30002312
+1865,onStandStepChanged 3786,Step_LSC,30002312
+759,"new date =20171223, type=40011,6314.0,old=6137.0",HiH_DataStatManager,30002312
+117,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+227,setTodayTotalDetailSteps=1514038440000##7038##548365##8661##15211##27192478,Step_SPUtils,30002312
+497,onExtend:1514038672000 2 0 4,Step_LSC,30002312
+420,onExtend:1514038666000 2 0 4,Step_LSC,30002312
+239,onExtend:1514038550000 1 0 4,Step_LSC,30002312
+1491,onStandStepChanged 3786,Step_LSC,30002312
+1783,clear(),Step_DataCache,30002312
+981,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+416,calculateCaloriesWithCache totalCalories=128274,Step_ExtSDM,30002312
+402,setTodayTotalDetailSteps=1514038560000##7074##548563##8661##16256##27292475,Step_SPUtils,30002312
+1609,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+752,ifCanSync not! no cloud version,HiH_HiSyncControl,30002312
+767,"new date =20171223, type=40006,7140.0,old=6900.0",HiH_DataStatManager,30002312
+921,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+1533,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1603,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+336,onStandStepChanged 3630,Step_LSC,30002312
+1308,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+640,setTodayTotalDetailSteps=1514038680000##7132##548895##8661##16256##27395468,Step_SPUtils,30002312
+1994,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+427,onExtend:1514038667000 2 0 4,Step_LSC,30002312
+567,onStandStepChanged 3684,Step_LSC,30002312
+130,calculateCaloriesWithCache totalCalories=127139,Step_ExtSDM,30002312
+1796,calculateAltitudeWithCache totalAltitude=0,Step_ExtSDM,30002312
+867,onExtend:1514038805000 1 0 4,Step_LSC,30002312
+631,onExtend:1514038751000 2 0 4,Step_LSC,30002312
+1104,onExtend:1514040697000 0 0 0,Step_LSC,30002312
+1842,setTodayTotalDetailSteps=1514045160000##0##549659##8661##16256##33866758,Step_SPUtils,30002312
+1207,setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29437358,Step_SPUtils,30002312
+1941,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1921,onStandStepChanged 3786,Step_LSC,30002312
+1904, getTodayTotalDetailSteps = 1514045340000##0##549659##8661##16256##34054759,Step_SPUtils,30002312
+799,calculateCaloriesWithCache totalCalories=130159,Step_ExtSDM,30002312
+1873, getTodayTotalDetailSteps = 1514045280000##0##549659##8661##16256##33988760,Step_SPUtils,30002312
+1823,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+765,"new date =20171223, type=40041,6720.0,old=6480.0",HiH_DataStatManager,30002312
+1561,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+154,onStandStepChanged 3600,Step_LSC,30002312
+435, getTodayTotalDetailSteps = 1514038560000##7081##548567##8661##16256##27310970,Step_SPUtils,30002312
+456, getTodayTotalDetailSteps = 1514038560000##7086##548570##8661##16256##27312467,Step_SPUtils,30002312
+1387,REPORT : 7200 5140 154223 240,Step_StandReportReceiver,30002312
+1558,setTodayTotalDetailSteps=1514043360000##7214##549659##8661##16256##32080760,Step_SPUtils,30002312
+254, getTodayTotalDetailSteps = 1514038440000##7041##548365##8661##15496##27194480,Step_SPUtils,30002312
+424,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+483,onExtend:1514038671000 1 0 4,Step_LSC,30002312
+1676, getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33081765,Step_SPUtils,30002312
+85,onExtend:1514038536000 1 0 4,Step_LSC,30002312
+1852,onExtend:1514045240000 0 0 5,Step_LSC,30002312
+1089,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+960,onExtend:1514039412000 0 0 0,Step_LSC,30002312
+250,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1733,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+404,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+618, getTodayTotalDetailSteps = 1514038680000##7124##548875##8661##16256##27393470,Step_SPUtils,30002312
+332,setTodayTotalDetailSteps=1514038560000##7056##548553##8661##16256##27284971,Step_SPUtils,30002312
+1440, getTodayTotalDetailSteps = 1514041980000##7214##549659##8661##16256##30736730,Step_SPUtils,30002312
+1448,onReceive action: android.intent.action.SCREEN_ON,Step_StandReportReceiver,30002312
+1418, getTodayTotalDetailSteps = 1514041980000##7211##549659##8661##16256##30731730,Step_SPUtils,30002312
+563,setTodayTotalDetailSteps=1514038620000##7111##548640##8661##16256##27324478,Step_SPUtils,30002312
+1512,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1517,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+350,onStandStepChanged 3634,Step_LSC,30002312
+1515,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1197,setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29437037,Step_SPUtils,30002312
+1109,setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29341612,Step_SPUtils,30002312
+202,REPORT : 7034 5022 150668 240,Step_StandReportReceiver,30002312
+1312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+880,onStandStepChanged 3760,Step_LSC,30002312
+1360,onStandStepChanged 3765,Step_LSC,30002312
+967,calculateCaloriesWithCache totalCalories=130673,Step_ExtSDM,30002312
+684,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,Step_LSC,30002312
+863,calculateCaloriesWithCache totalCalories=130587,Step_ExtSDM,30002312
+1372,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1432, getTodayTotalDetailSteps = 1514041980000##7214##549659##8661##16256##30733226,Step_SPUtils,30002312
+1131,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1947,onStandStepChanged 3786,Step_LSC,30002312
+119,onStandStepChanged 3595,Step_LSC,30002312
+392,onStandStepChanged 3646,Step_LSC,30002312
+1364,calculateCaloriesWithCache totalCalories=130758,Step_ExtSDM,30002312
+1165,onExtend:1514040776000 0 0 5,Step_LSC,30002312
+1632,onExtend:1514044397000 0 0 0,Step_LSC,30002312
+187,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+697,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1166,onExtend:1514040836000 0 0 0,Step_LSC,30002312
+1239,onReceive action: android.intent.action.SCREEN_OFF,Step_StandReportReceiver,30002312
+1052,onExtend:1514039857000 0 0 5,Step_LSC,30002312
+1,onReceive action: android.intent.action.SCREEN_ON,Step_StandReportReceiver,30002312
+1582,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+995,REPORT : 7189 5132 153988 240,Step_StandReportReceiver,30002312
+1660,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+147,onStandStepChanged 3599,Step_LSC,30002312
+1654,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1993,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+1896,onStandStepChanged 3786,Step_LSC,30002312
+1056,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,Step_LSC,30002312
+1158,onExtend:1514040772000 0 0 5,Step_LSC,30002312
+289, getTodayTotalDetailSteps = 1514038440000##7048##548365##8661##15971##27198970,Step_SPUtils,30002312
+201,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+850,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+1759,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+566,REPORT : 7111 5077 152317 240,Step_StandReportReceiver,30002312
+108,setTodayTotalDetailSteps=1514038440000##7021##548365##8661##13596##27181971,Step_SPUtils,30002312
+1886,setTodayTotalDetailSteps=1514045280000##0##549659##8661##16256##34019759,Step_SPUtils,30002312
+1412,setTodayTotalDetailSteps=1514041980000##7211##549659##8661##16256##30731730,Step_SPUtils,30002312
+1305,onExtend:1514041699000 0 0 5,Step_LSC,30002312
+957,onExtend:1514039232000 0 0 5,Step_LSC,30002312
+1696,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+1332,REPORT : 7189 5132 153988 240,Step_StandReportReceiver,30002312
+1653,calculateCaloriesWithCache totalCalories=131208,Step_ExtSDM,30002312
+390,calculateAltitudeWithCache totalAltitude=240,Step_ExtSDM,30002312
+549,calculateCaloriesWithCache totalCalories=128917,Step_ExtSDM,30002312
+442, getTodayTotalDetailSteps = 1514038560000##7083##548568##8661##16256##27311472,Step_SPUtils,30002312
+1471,onStandStepChanged 3786,Step_LSC,30002312
+756,"new date =20171223, type=40004,4800.935999999999,old=5112.0",HiH_DataStatManager,30002312
+1518,processHandleBroadcastAction action:android.intent.action.TIME_TICK,Step_LSC,30002312
+875, getTodayTotalDetailSteps = 1514038740000##7186##549404##8661##16256##27448983,Step_SPUtils,30002312
+1263,onStandStepChanged 3761,Step_LSC,30002312
+686, getTodayTotalDetailSteps = 1514038680000##7154##548920##8661##16256##27400475,Step_SPUtils,30002312
