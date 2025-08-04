@@ -24,6 +24,7 @@ data_loader = OpenSetDataLoader(
 
 logrecord = data_loader.load_data()
 
+print("-------------- log in pandas dataframe structure ----------------")
 print(logrecord.to_dataframe().head(5))
 
 print("Step 2: Preprocess")
@@ -131,3 +132,24 @@ anomalies = res[res==1]
 print(f"anomalies index: {anomalies.index}")
 print(loglines.iloc[anomalies.index].head(5))
 print(attributes.iloc[anomalies.index].head(5))
+
+print("Step 7: Log Clustering with K-Means clustering algorithm")
+from logai.algorithms.clustering_algo.kmeans import KMeansParams
+from logai.analysis.clustering import ClusteringConfig, Clustering
+
+clustering_config = ClusteringConfig(
+    algo_name='kmeans',
+    algo_params=KMeansParams(
+        n_clusters=7,
+        algorithm='elkan', #elkan or lloyd
+    )
+)
+
+log_clustering = Clustering(clustering_config)
+
+log_clustering.fit(feature_vector)
+
+cluster_id = log_clustering.predict(feature_vector).astype(str).rename('cluster_id')
+
+# Check clustering results.
+print(logrecord.to_dataframe().join(cluster_id).head(5))
